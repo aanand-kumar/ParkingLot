@@ -1,4 +1,4 @@
-
+package ParkingLotSolution;
 class Vehicle
 {
   private String vehicleNubmer;

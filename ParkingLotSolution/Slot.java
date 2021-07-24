@@ -1,4 +1,4 @@
-
+package ParkingLotSolution;
 
 class Slot
 {

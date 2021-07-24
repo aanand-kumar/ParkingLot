@@ -1,4 +1,4 @@
-
+package ParkingLotSolution;
 public class Validation
 {
 

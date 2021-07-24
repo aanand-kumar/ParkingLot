@@ -1,2 +1,2 @@
-language = "java"
-run = ""
+language = "java10"
+run = "javac ParkingLotSolution/*.java && java ParkingLotSolution/Main ParkingLotSolution/input.txt"
